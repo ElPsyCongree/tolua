@@ -25,3 +25,6 @@ sysinfo.txt
 /UnityVS.tolua.CSharp.csproj
 /UnityVS.tolua.CSharp.Editor.csproj
 /UnityVS.tolua.sln
+/Assets/LuaDeepProfilerSettings.asset
+/Assets/LuaDeepProfilerSettings.asset.meta
+/.vs
